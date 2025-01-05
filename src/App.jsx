@@ -4,6 +4,7 @@ import ComponyLogo from './components/ComponyLogo'
 import Header from './components/Header'
 import Collaboration from './components/Collaboration'
 import RoadMap from './components/Roadmap'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Benifits />
       <Collaboration />
       <RoadMap />
+      <Footer />
 
     </>
   )

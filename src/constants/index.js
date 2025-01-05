@@ -39,6 +39,11 @@ import roadmap1 from "../assets/svg/RoadMap/image-1.png";
 import roadmap2 from "../assets/svg/RoadMap/image-2.png";
 import roadmap3 from "../assets/svg/RoadMap/image-3.png";
 import roadmap4 from "../assets/svg/RoadMap/image-4.png";
+import discordBlack from "../assets/svg/Socials/discord.svg";
+import twitter from "../assets/svg/Socials/twitter.svg";
+import instagram from "../assets/svg/Socials/instagram.svg";
+import telegram from "../assets/svg/Socials/telegram.svg";
+import facebook from "../assets/svg/Socials/facebook.svg";
 
 export const navigation = [
   {
@@ -298,35 +303,35 @@ export const benefits = [
   },
 ];
 
-// export const socials = [
-//   {
-//     id: "0",
-//     title: "Discord",
-//     iconUrl: discordBlack,
-//     url: "#",
-//   },
-//   {
-//     id: "1",
-//     title: "Twitter",
-//     iconUrl: twitter,
-//     url: "#",
-//   },
-//   {
-//     id: "2",
-//     title: "Instagram",
-//     iconUrl: instagram,
-//     url: "#",
-//   },
-//   {
-//     id: "3",
-//     title: "Telegram",
-//     iconUrl: telegram,
-//     url: "#",
-//   },
-//   {
-//     id: "4",
-//     title: "Facebook",
-//     iconUrl: facebook,
-//     url: "#",
-//   },
-// ];
+export const socials = [
+  {
+    id: "0",
+    title: "Discord",
+    iconUrl: discordBlack,
+    url: "#",
+  },
+  {
+    id: "1",
+    title: "Twitter",
+    iconUrl: twitter,
+    url: "#",
+  },
+  {
+    id: "2",
+    title: "Instagram",
+    iconUrl: instagram,
+    url: "#",
+  },
+  {
+    id: "3",
+    title: "Telegram",
+    iconUrl: telegram,
+    url: "#",
+  },
+  {
+    id: "4",
+    title: "Facebook",
+    iconUrl: facebook,
+    url: "#",
+  },
+];
